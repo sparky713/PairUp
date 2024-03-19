@@ -1,6 +1,8 @@
 # PairUp
 
-Figma: https://www.figma.com/file/YqbSMsunc8NT6nYl2cNxKX/PearUp?type=design&node-id=2%3A31&mode=design&t=DpFGSgRXsDJRbTI0-1
+Figma Prototype: https://www.figma.com/proto/YqbSMsunc8NT6nYl2cNxKX/PearUp?type=design&node-id=75-23776&t=kQTFLH5y3CNkjOaq-1&scaling=scale-down&page-id=2%3A31&starting-point-node-id=75%3A23776&mode=design
+
+https://www.figma.com/file/YqbSMsunc8NT6nYl2cNxKX/PearUp?type=design&node-id=2%3A31&mode=design&t=DpFGSgRXsDJRbTI0-1
 
 # What is PearUp
 
